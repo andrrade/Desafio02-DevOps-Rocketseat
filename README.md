@@ -1,13 +1,9 @@
-# Configuracao-de-Ambiente-com-Docker-Compose
-
 <div align="center">
-  <img src="./assets/rocketseatLogo.png" alt="img" width="200"><br>
+  <img src="./assets/rocketseatLogo.png" alt="img" width="150"><br>
   <h3>Configuração de Ambiente com Docker Compose</h3>
 </div><br>
 
----
-
-[Desafio]()
+[Desafio](https://github.com/andrrade/Desafio02-DevOps-Rocketseat/blob/main/desafio.md)
 
 ---
 
@@ -332,15 +328,6 @@ python-dotenv
 
 ---
 
-## Como Rodar o Projeto
-
-1. **Clone este repositório**
-
-```bash
-git clone <URL-do-seu-repositório>
-cd <pasta-do-projeto>
-```
-
 2. **Execute o Docker Compose**
 
 ```bash
@@ -423,3 +410,10 @@ Se os dados aparecerem, o volume está funcionando e persistindo os dados!
 * As variáveis sensíveis (usuário, senha, host) são configuradas via variáveis de ambiente no `docker-compose.yml`.
 * A rede customizada isola a comunicação entre containers.
 * A imagem do Python usa `alpine` para ser mais leve.
+
+---
+
+<img src="./assets/01-img.png alt="img"><br>
+<img src="./assets/img02.png.png alt="img"><br>
+<img src="./assets/img03.png.png alt="img"><br>
+<img src="./assets/img04.png.png alt="img"><br>
