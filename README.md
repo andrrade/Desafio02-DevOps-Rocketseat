@@ -215,7 +215,7 @@ docker rm mysql-dev
 5. Suba o container MySQL novamente (mantendo o volume):
 
 ```bash
-docker-compose up -d db
+docker-compose up -d
 ```
 
 6. Acesse o MySQL e confira se os dados ainda estão lá:
