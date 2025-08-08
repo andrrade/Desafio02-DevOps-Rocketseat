@@ -413,7 +413,7 @@ Se os dados aparecerem, o volume está funcionando e persistindo os dados!
 
 ---
 
-<img src="./assets/01-img.png alt="img"><br>
-<img src="./assets/img02.png.png alt="img"><br>
-<img src="./assets/img03.png.png alt="img"><br>
-<img src="./assets/img04.png.png alt="img"><br>
+<img src="./assets/01-img.png" alt="img"><br>
+<img src="./assets/img02.png" alt="img"><br>
+<img src="./assets/img03.png" alt="img"><br>
+<img src="./assets/img04.png" alt="img"><br>
